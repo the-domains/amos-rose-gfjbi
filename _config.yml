@@ -1,0 +1,14 @@
+layout_spectrum: 0.42300246469676495
+typography_spectrum: 0.7359657993074507
+color:
+  brandStrength: 0.5096843680366874
+  lightness: 0.6260031389538199
+  saturation: 0.7727634145412594
+  rhythmicContrast: 0.8701310746837407
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: amos-rose
